@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "A gardener is planting trees in rows. The total number of trees planted is 144. The gardener wants to arrange the trees in such a way that each row has the same number of trees and each column also has the same number of trees. Which of the following configurations is not possible for arranging the trees?",
+        "options": [
+            "8 rows of 20 trees",
+            "9 rows of 16 trees",
+            "12 rows of 12 trees",
+            "16 rows of 9 trees"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "A classroom has a certain number of desks arranged in rows and columns such that the total number of desks is both a multiple of 12 and a factor of 360. Which of the following numbers could be the total number of desks in the classroom?",
+        "options": [
+            "45",
+            "60",
+            "70",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Samantha wants to plant flowers in her garden in rows. She has 24 red flowers, 36 white flowers, and 48 blue flowers. She wants to arrange all the flowers in rows such that each row has the same number of flowers of the same colour. What is the maximum number of flowers Samantha can place in each row?",
+        "options": [
+            "6",
+            "12",
+            "24",
+            "48"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Rebecca has 20 table tennis balls and 16 table tennis paddles. She wants to sell packages of balls and paddles bundled together. What is the greatest number of packages she can sell (with no leftover balls or paddles and one ball per paddle)?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "A bakery produces batches of bread every 15 minutes and batches of cakes every 20 minutes. If both a batch of bread and a batch of cakes were last produced at 8:00 AM, at what time will both types of batches be produced simultaneously again?",
+        "options": [
+            "7:00 AM",
+            "8:00 AM",
+            "9:00 AM",
+            "10:00 AM"
+        ],
+        "correct": 2
+    }
+]
